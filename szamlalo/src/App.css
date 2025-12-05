@@ -3,7 +3,7 @@
   font-family: Arial, sans-serif;
   margin-top: 50px;
 }
-.szamlalo h1 {
+.szamlalo h1, h2 {
   color: #333;
 }
 .szamol {
